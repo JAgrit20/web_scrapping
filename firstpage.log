@@ -1,0 +1,40 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.25)  25 JUN 2020 12:42
+entering extended mode
+**C:/Users/Jagrit/Desktop/firstpage.tex
+(C:/Users/Jagrit/Desktop/firstpage.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-05-15>
+("C:\Users\Jagrit\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls"
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Users\Jagrit\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk12.clo"
+File: bk12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+))
+*
+! Emergency stop.
+<*> C:/Users/Jagrit/Desktop/firstpage.tex
+                                         
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 237 strings out of 480799
+ 2777 string characters out of 2895317
+ 238747 words of memory out of 3000000
+ 16333 multiletter control sequences out of 15000+200000
+ 532636 words of font info for 25 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 24i,0n,21p,148b,36s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
