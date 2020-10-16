@@ -299,3 +299,14 @@ Walmart shopping cart
 Goes to walmart.com and adds a Nintendo game to an empty shopping cart. Validates the correct amount.
 
 b. jest-tests/walmart.spec.js
+
+#What is Puppeteer#
+According to its official documentation:
+Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.
+Okay so let’s break this line down bit by bit …
+Puppeteer is a Node library:- Puppeteer is a Node library .xD
+which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. :- Now this has some meat…It explains that Puppeteer provides us with a function to access Chrome or Chromium . Which in turn means we can automate anything we do on these browsers with it like emulating a key press, a click etc .
+Puppeteer runs headless by default but can be configured to run full (non-headless) Chrome or Chromium. :- Now here comes the word headless (HOLDING DOWN MY PUNS). By headless, it means that the whole operation on the browser by puppeteer can be done without ANY GUI (Graphical User Interface) . Which means you won’t even see a window or tab opening buttons being clicked or anything, it all happens in the background. Although you can work with non-headless mode too so that you can see your script in action.
+Prerequisites
+This tutorial is beginner friendly, no advanced knowledge of code is required. If you’re following along you’ll need NodeJS installed, basic knowledge of the command line, knowledge of JavaScript and knowledge of the DOM.
+All the code will be available in the given repository 
