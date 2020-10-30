@@ -158,10 +158,3 @@ Add an evaluate statement with debugger inside / add debugger to an existing eva
 await page.evaluate(() => {debugger;});
 The test will now stop executing in the above evaluate statement, and chromium will stop in debug mode.
 
-Use debugger in node.js
-
-This will let you debug test code. For example, you can step over await page.click() in the node.js script and see the click happen in the application code browser.
-
-Note that you won't be able to run await page.click() in DevTools console due to this Chromium bug. So if you want to try something out, you have to add it to your test file.
-
-Add debugger; to your test, eg:
